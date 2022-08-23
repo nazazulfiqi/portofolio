@@ -1,0 +1,21 @@
+@media screen and (max-width : 1200px){
+    #hero p {
+        font-size: 0.5rem;
+    }
+    #hero h1 {
+        font-size: 2rem;
+    }
+
+}
+
+@media screen and (max-width : 768px){
+    
+}
+
+@media screen and (max-width : 576px){
+    
+}
+
+@media screen and (max-width : 350px){
+    
+}
